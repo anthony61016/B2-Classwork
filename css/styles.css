@@ -1,0 +1,9 @@
+.container, .container-fluid {
+  border: solid 1px black;
+  margin-bottom: 20px;
+  background: grey;
+}
+
+[class^="col-"] {
+  border: solid 1px green;
+}
